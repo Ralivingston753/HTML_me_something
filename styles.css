@@ -1,0 +1,38 @@
+
+#mainHeading{
+    font-family: sans-serif;
+    color: red;
+}
+
+body{
+    font-family: sans-serif;
+    margin: 8px;
+    display: block;
+}
+
+li.cost{
+    color: darkcyan ;
+
+}
+h4.cost2{
+    color: darkred;
+}
+
+#testP{
+    font-size: smaller;
+ font-style: italic;
+}
+
+#finalCost{
+    font-size: smaller;
+    font-style: italic;
+}
+ 
+.funParagraph{
+    color: green;
+}
+
+footer{
+    font-size: x-small;
+    color: midnightblue;
+}
